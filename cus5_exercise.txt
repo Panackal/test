@@ -1,0 +1,19 @@
+#return number of rows
+
+#return number of columns
+
+#each column count
+
+#each prof -- max sal -- sal desc
+
+#each prof min sal-- sal desc
+
+#each prof total salary
+
+#min salary for each prof in india for employees aged above 50
+
+#minimum sal for each prof (age>50)
+
+#top 5 highest paid employees (age>50)
+
+#prof wise min salary and max salary
