@@ -5,3 +5,6 @@ git commit -m 'comment name'
 gti psuh
 git pull
 git status
+git log
+git checkout -b branchess  // creating stiching to branch
+
